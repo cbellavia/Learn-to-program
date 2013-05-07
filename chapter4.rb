@@ -1,3 +1,1 @@
-if __FILE__ == $0
-  # TODO Generated stub
-end
+puts "No exercises in Chapter 4"
